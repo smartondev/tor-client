@@ -91,6 +91,10 @@ The source code of this container is available on [GitHub](https://github.com/sm
 - `x.y.z`: `smartondev/tor-client:x.y.z` (stable or development version)
 - `latest`: `smartondev/tor-client:latest` (latest stable or development version)
 
+## License
+
+This project is licensed under the [Apache License 2.0](https://github.com/smartondev/tor-client/blob/master/LICENSEÖ
+
 ## Author
 
 [Márton Somogyi](https://github.com/kamarton)
